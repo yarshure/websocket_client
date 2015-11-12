@@ -7,7 +7,7 @@ websocket-client module  is WebSocket client for python. This provide the low le
 websocket-client supports only hybi-13.
 =================
 hacked by yarshure
-1 add kqueue suport under OS X/FreeBSD
+add kqueue suport under OS X/FreeBSD
 =================
 
 License
