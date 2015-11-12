@@ -5,7 +5,10 @@ websocket-client
 websocket-client module  is WebSocket client for python. This provide the low level APIs for WebSocket. All APIs are the synchronous functions.
 
 websocket-client supports only hybi-13.
-
+=================
+hacked by yarshure
+1 add kqueue suport under OS X/FreeBSD
+=================
 
 License
 ============
